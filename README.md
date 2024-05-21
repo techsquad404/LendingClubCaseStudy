@@ -56,6 +56,7 @@ Data cleaning involved:
 
 ## Files in the Repository
 - `loan_analysis.ipynb`: Jupyter notebook with detailed analysis and visualizations.
+- `Loan Default Prediction Case Study.pdf`: PDF with detailed analysis and explanation.
 - `README.md`: This file.
 
 ## How to Run
